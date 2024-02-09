@@ -1,2 +1,7 @@
 # Foo
-A rewrite (again) of syren, This time not spaget (hopefully)
+
+An attempt at making something cool for my friends
+
+## Features
+- Music
+- Thats it for now o7
